@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bridgetkriesel
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me https://twitter.com/bridgetkriesel1
 
 <!---
